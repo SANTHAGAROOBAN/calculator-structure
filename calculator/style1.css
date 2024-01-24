@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(88, 86, 86);
+}
+.calculator{
+    display: flex;
+    justify-content: center;
+    justify-items:center ;
+    background-color: rgb(202, 202, 202);
+    height: 500px;
+    width: 400px;
+    position: fixed;
+    left: 35%;
+    top: 10%;
+   border-style: solid; 
+   border-width: 3px;
+   border-right-color:whitesmoke;
+   border-top-color:whitesmoke;
+    
+}
+.div1{
+    background-color: white;
+    height: 80px; 
+    width: 350px;
+    position: relative;
+    top: 30px;
+    border-style:solid;
+    border-width: 3px;
+    border-bottom-color:whitesmoke;
+    border-left-color:whitesmoke;
+
+    
+}
+
+.seven{
+    position: absolute;
+    left: 27px;
+    top: 143px;
+    
+}
+
+
+.eight{
+    position: absolute;
+    left: 117px;
+    top: 143px;
+    
+}
+.nine{
+    position: absolute;
+    left: 207px;
+    top: 143px;
+    
+}
+.plus{ 
+    position: absolute;
+    left: 297px;
+    top: 143px;
+}
+.four{
+    position: absolute;
+    left: 27px;
+    top: 223px;
+    
+}   
+.five{
+    position: absolute;
+    left: 117px;
+    top: 223px;
+    
+}
+.six{
+    position: absolute;
+    left: 207px;
+    top: 223px;
+    
+}
+.minus{
+    position: absolute;
+    left: 297px;
+    top: 223px;
+    
+    
+}
+
+.one{
+    position: absolute;
+    left: 27px;
+    top: 303px;
+    
+}
+.two{
+    position: absolute;
+    left: 117px;
+    top: 303px;
+    
+}
+.three{
+    position: absolute;
+    left: 207px;
+    top: 303px;
+    
+}
+.x{
+    position: absolute;
+    left: 297px;
+    top: 303px;
+    
+}
+
+.c{
+    position: absolute;
+    left: 27px;
+    top: 383px;
+}
+.zero{
+    position: absolute;
+    left: 117px;
+    top: 383px;
+    
+}
+.equal{
+    position: absolute;
+    left: 207px;
+    top: 383px;
+    
+}
+.divide{
+    position: absolute;
+    left: 297px;
+    top: 383px;
+    
+}
+
